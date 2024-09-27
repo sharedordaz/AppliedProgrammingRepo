@@ -7,6 +7,7 @@
 This software is the fisrt step for creating a program. Is a tradition between developers to write a Hello World program to start learning a new language
 
 **Describe your purpose for creating this software.**
+
 The purpose is to learn Java, starting with the basic like printing text on the console, to be able to do harder things
 
 **Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.**
@@ -26,6 +27,7 @@ Java, a language created by Oracle,used frequently to create mobile apps, or des
 # Useful Websites
 
 **Make a list of websites that you found helpful in this project** 
+
 * OpenJDK: The open source free Java engine https://openjdk.org/
 * Guide to do a Hello World: https://www.programiz.com/java-programming/hello-world
 
