@@ -12,6 +12,8 @@ The purpose is to learn Java, starting with the basic like printing text on the 
 
 **Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.**
 
+https://youtu.be/vEi_X8S2R5g
+
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
